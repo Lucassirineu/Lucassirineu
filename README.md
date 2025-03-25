@@ -7,7 +7,6 @@ Me chamo Lucas Sirineu da Silva, tenho 22 anos e sou natural de Jundiaí-SP. Con
 ### 🤖 Linguagens e Tecnologias
 
 <br/>
-<br/>
 
 <img 
     align="left" 
@@ -58,7 +57,6 @@ Me chamo Lucas Sirineu da Silva, tenho 22 anos e sou natural de Jundiaí-SP. Con
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
 <br/>
 
 ### 📊 Estatísticas
