@@ -80,7 +80,7 @@ Me chamo Lucas Sirineu da Silva, tenho 22 anos e sou natural de Jundiaí-SP. Con
       <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="150" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucassirineu&theme=dracula&layout=compact&custom_title=Tecnologias&lags_count=7&locale=pt-br" 
     />
