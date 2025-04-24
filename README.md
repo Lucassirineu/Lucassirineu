@@ -2,7 +2,7 @@
 
 **'Desenvolvedor FullStack'**
 
-Me chamo Lucas Sirineu da Silva, tenho 22 anos e sou natural de Jundiaí-SP. Concluí o ensino técnico no SENAC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Sou apaixonado em tecnologia, e para aprimorar minhas skills e habilidades estou fazendo outros cursos, como o do Balta.io.
+Me chamo Lucas Sirineu da Silva, tenho 22 anos e sou natural de Jundiaí-SP. Concluí o ensino técnico no SENAC, com o curso técnico em informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Anhanguera. Sou apaixonado por tecnologia, e para aprimorar minhas skills e habilidades estou fazendo outros cursos, como o do Balta.io.
 
 ### 🤖 Linguagens e Tecnologias
 
